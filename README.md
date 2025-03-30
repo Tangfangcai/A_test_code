@@ -1,6 +1,6 @@
 ## 项目概述
 
-A_test_code是我用到过的一些 Python 工具集。
+A_test_code是我用到的一些 Python 脚本集。
 
 ## 功能列表
 
@@ -50,6 +50,6 @@ A_test_code是我用到过的一些 Python 工具集。
 
 [在此添加您的许可证，如 MIT License]
 
----
+
 
 
