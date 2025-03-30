@@ -24,7 +24,7 @@ A_test_code是我用到过的一些 Python 工具集。
 
 1. 克隆本项目到本地：
    ```bash
-   git clone https://github.com/your-username/Tangfangcai.git
+   git clone https://github.com/Tangfangcai/A_test_code.git
    ```
 
 2. 确保已安装 Python 3.x 和必要的依赖库
@@ -44,7 +44,7 @@ A_test_code是我用到过的一些 Python 工具集。
 
 ## 贡献指南
 
-欢迎提交 Pull Request 或 Issue 来改进本项目！
+欢迎改进本项目！
 
 ## 许可证
 
@@ -52,9 +52,4 @@ A_test_code是我用到过的一些 Python 工具集。
 
 ---
 
-您可以根据实际项目情况修改或补充上述内容，例如：
-• 添加更详细的使用示例
-• 说明每个脚本的具体参数
-• 添加安装依赖的具体命令
-• 补充项目背景或动机
-• 添加截图或示例图像
+
